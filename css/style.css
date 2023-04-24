@@ -827,6 +827,11 @@ a {
 	transition: 0.7s;
 }
 
+.mails-see-footer {
+	margin-left: 100px;
+}
+
+
 
 .menu__btn {
 	width: 27px;
