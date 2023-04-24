@@ -821,13 +821,6 @@ a {
 	justify-content: space-between;
 }
 
-.social-footer {
-	display: flex;
-	gap: 10px;
-	margin-right: 100px;
-	padding-top: 20px;
-
-
 .footer-btn {
 	width: 220px;
 	padding: 18px 28px;
